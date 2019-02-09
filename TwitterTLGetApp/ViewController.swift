@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import Social
 
 class ViewController: UIViewController {
 
@@ -15,6 +16,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
 
-
+    @IBAction func TweetTwitter(_ sender: AnyObject) {
+        
+    }
+    
 }
 
